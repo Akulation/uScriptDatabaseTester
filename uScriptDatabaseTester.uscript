@@ -1,0 +1,7 @@
+// THIS SCRIPT SIMPLY CREATES A DATABASE TABLE TO TEST IF YOUR USCRIPT DATABASE IS SET UP CORRECTLY
+// This will create a table called TestDatabase123
+
+event onLoad() {
+    database.nonQuery("CREATE TABLE IF NOT EXISTS TestDatabase123 (ID INT(64) NOT NULL AUTO_INCREMENT PRIMARY KEY);");
+    server.log("Database created successfully.");
+}
