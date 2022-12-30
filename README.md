@@ -22,7 +22,7 @@
 ### Common Errors
 
 **Database Issue**
-I literally dont know why this occurs or how to fix it, sorry.
+- I literally dont know why this occurs or how to fix it, sorry.
 ```
 Error in uScriptDatabaseTester.uscript
 -> Line: 5
@@ -33,7 +33,7 @@ StackTrace:
 ```
 
 **Database not set up correctly**
-Make sure your database details are correct and there are no spaces after each thing.
+- Make sure your database details are correct and there are no spaces after each thing.
 ```
 Error in test.uscript
 -> Line: 5
