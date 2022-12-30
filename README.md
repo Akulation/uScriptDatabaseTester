@@ -19,7 +19,7 @@
 - 3. Use `/script reload` or restart your server
 - 4. If any errors occur then you have some sort of issue with uScript2 or your database
 
-### Common Errors
+## Common Errors
 
 **Database Issue**
 - I literally dont know why this occurs or how to fix it, sorry.
